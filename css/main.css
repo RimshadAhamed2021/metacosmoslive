@@ -1,34 +1,5 @@
-/*
-  Theme Name: Appri - App Landing PSD Template
-  Author: basictheme
-  Support: basictheme400@gmail.com
-  Description: App Landing PSD Template.
-  Version: 1.0
-*/
-
-/* CSS Index
------------------------------------
-1. Theme default css
-2. header
-3. slider
-4. fact
-5. feature
-6. video
-7. how work
-8. price
-9. testimonial
-10. faq
-11. footer
-12. blog
-*/
-
-
-
-/* 1. Theme default css */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,500,700&display=swap');
-
 body {
-	font-family: 'Outfit', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: normal;
 	font-style: normal;
 	color: #444;
@@ -103,13 +74,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;
-	color: #393542;
-	margin-top: 0px;
-	font-style: normal;
-	font-weight: 700;
-	text-transform: normal;
+
 }
 
 h1 a,
@@ -1805,6 +1770,7 @@ ul.price-nav li:nth-child(2) a {
 }
 .g-co{
 	color: #009696 !important;
+	font-weight: 500;
 }
 .sticky img{
 	transition-duration: 0.5s;
